@@ -1,1 +1,1 @@
-# Python---Sending-Email-using-SMTP
+# Python-Sending-Emails-using-SMTP
